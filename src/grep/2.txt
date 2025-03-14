@@ -1,0 +1,8 @@
+ 1
+ ghgh
+y
+h
+
+ ghghgh
+'[a-x]'
+s
